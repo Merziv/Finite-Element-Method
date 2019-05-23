@@ -1,0 +1,12 @@
+"initial_temperature":100
+"time":20
+"step":1
+"ambient_temperature":1200
+"alfa":300
+"H":0.1
+"L":0.1
+"nH":31
+"nL":31
+"specific_heat":700
+"conductivity":25
+"density":7800
